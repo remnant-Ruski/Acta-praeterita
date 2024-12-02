@@ -1,19 +1,12 @@
 body {
     background-color: #930900;
+    color: #1AFF22; /* Default text color */
+    font-weight: bold; /* Default text font weight */
+    font-style: italic; /* Default text font style */
 }
 
-.important-text {
-    color: #1AFF22; 
-}
-
-.highlight {
-    color: #DB00B1; 
-}
-
-h2 {
-    font-weight: bold;
-}
-
-em {
-    font-style: italic;
+h1, h2, h3, h4, h5, h6 {
+    color: #000000; /* Black headers */
+    font-weight: normal; /* Reset font weight for headers */
+    font-style: normal; /* Reset font style for headers */
 }
