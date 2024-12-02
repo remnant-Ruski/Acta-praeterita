@@ -1,0 +1,19 @@
+body {
+    background-color: #930900;
+}
+
+.important-text {
+    color: #1AFF22; 
+}
+
+.highlight {
+    color: #DB00B1; 
+}
+
+h2 {
+    font-weight: bold;
+}
+
+em {
+    font-style: italic;
+}
