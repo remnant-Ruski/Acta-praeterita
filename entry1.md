@@ -14,4 +14,4 @@ telegram was somewhere around 40 for the original telegram. Eventually my telegr
 
  I still remember the email AQVILA had responded with to my email, that iron march was no longer up and they all had started seperating from the natsoc movment, as to his email, it did feel like a slap to
  the face as he mentioned it may feel. I took what he said about the situation very seriously though, and I wasnt ready to give up on iron march and was vowing to bring it back when I returned to the scene.
-  I held onto this belief for the following majority of months till i subsequently left the movement. Well I am exhausted by sleep deprivation so I am going to end this first entry lackluster sadly.
+  I held onto this belief for the following majority of months till i subsequently left the movement. Well I am exhausted by sleep deprivation so I am going to end this first entry lackluster sadly.***
